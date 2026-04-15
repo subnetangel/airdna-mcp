@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 *.png
 .airdna_token
+*.token
+.*_token
